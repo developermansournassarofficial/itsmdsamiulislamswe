@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 <br> I am a passionate Full-Stack Web Developer and software engineering student dedicated to building modern, robust, and scalable web applications.<br>🌱 Currently expanding my expertise in advanced JavaScript (ES6+), modern frontend frameworks like React.js & Next.js, and backend architectures using Node.js & Express.js.<br>🛠️ Proficient in working with version control systems like Git & GitHub and automating workflows through command-line tools and scripts.<br>⚡ Fun fact: I love building automated tools and exploring efficient solutions for development challenges.<br>📫 How to reach me: md.samiulislam.swe@gmail.com
+💻 I am a passionate Full-Stack Web Developer and software engineering student dedicated to building modern, robust, and scalable web applications.<br>🌱 Currently expanding my expertise in advanced JavaScript (ES6+), modern frontend frameworks like React.js & Next.js, and backend architectures using Node.js & Express.js.<br>🛠️ Proficient in working with version control systems like Git & GitHub and automating workflows through command-line tools and scripts.<br>⚡ Fun fact: I love building automated tools and exploring efficient solutions for development challenges.<br>📫 How to reach me: md.samiulislam.swe@gmail.com
 
 
 ## 🌐 Socials:
