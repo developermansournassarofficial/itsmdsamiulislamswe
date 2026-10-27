@@ -60,15 +60,9 @@
 </p><br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsmdsamiulislamswe&color=0e75b6&style=flat" alt="Profile Views" />
-  <!-- &nbsp;&nbsp; -->
-  <img src="https://img.shields.io/github/followers/itsmdsamiulislamswe?label=Followers&style=social" alt="GitHub Followers" />
-  <!-- &nbsp;&nbsp; -->
-  <img src="https://img.shields.io/github/stars/itsmdsamiulislamswe?style=social&label=Stars" alt="GitHub Stars" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=itsmdsamiulislamswe&color=brightgreen&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/itsmdsamiulislamswe?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/itsmdsamiulislamswe?style=social&label=Stars" alt="GitHub Stars" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
