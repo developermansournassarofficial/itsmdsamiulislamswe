@@ -32,12 +32,12 @@
 
 <p align="center">
   <b>⚙️ Backend Technologies</b><br>
-  <img src="https://skillicons.dev/icons?theme=dark&i=nodejs,express,next,mongodb,mongoose" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?theme=dark&i=nodejs,express,next," alt="Backend Technologies" />
 </p>
 
 <p align="center">
   <b>🗄️ Databases & Cloud</b><br>
-  <img src="https://skillicons.dev/icons?theme=dark&i=mongodb,mysql,aws,azure" alt="Databases & Cloud" />
+  <img src="https://skillicons.dev/icons?theme=dark&i=mongodb,mongoose,mysql,aws,azure" alt="Databases & Cloud" />
 </p>
 
 <p align="center">
