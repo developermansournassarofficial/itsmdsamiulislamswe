@@ -1,3 +1,34 @@
+
+```python
+class AboutMe:
+    def __init__(self):
+        self.name = "MD Samiul Islam"
+        self.pronouns = ["he", "him"]
+        self.profession = "Software Engineer | Full-Stack Developer"
+        self.location = "Dhaka, Bangladesh"
+        
+        self.preferred_tech_stack = ["javascript", "typescript", "nodejs", "react"]
+        self.can_use = [
+            "html", "css", "javascript", "typescript", "nodejs", "express", 
+            "nestjs", "react", "redux", "mongodb", "mongoose", "mysql", "python", "git"
+        ]
+        
+        self.currently_learning = ["system_design", "advanced_typescript", "ci_cd_pipelines"]
+        self.fun_fact = "I love building scalable backend systems and podcast clipping tools! 🚀"
+
+    def get_contact_info(self):
+        return {
+            "email": "your-email@gmail.com",
+            "github": "github.com/itsmdsamiulislamswe",
+            "linkedin": "Connect with me!"
+        }
+
+    def current_focus(self):
+        return "Developing robust full-stack applications and optimizing software workflows."
+```
+
+
+
 # 👨‍💻 About Me
 💻 I am a passionate Full-Stack Web Developer and software engineering student dedicated to building modern, robust, and scalable web applications.<br>
 🌱 Currently expanding my expertise in advanced JavaScript (ES6+), modern frontend frameworks like React.js & Next.js, and backend architectures using Node.js & Express.js.<br>
