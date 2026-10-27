@@ -25,22 +25,22 @@
 
 <p align="center">
   <b>💻 Programming Languages</b><br>
-  <img src="https://skillicons.dev/icons?theme=dark&i=html,css,js,ts" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?theme=dark&i=js,ts" alt="Programming Languages" />
 </p>
 
 <p align="center">
   <b>🚀 Frameworks & Libraries</b><br>
-  <img src="https://skillicons.dev/icons?theme=dark&i=django,react,bootstrap,mui" alt="Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?theme=dark&i=react,redux,tailwindcss,bootstrap," alt="Frameworks & Libraries" />
 </p>
 
 <p align="center">
   <b>🗄️ Databases & Cloud</b><br>
-  <img src="https://skillicons.dev/icons?theme=dark&i=mysql,postgres,firebase,aws" alt="Databases & Cloud" />
+  <img src="https://skillicons.dev/icons?theme=dark&i=mongodb,mysql,aws,azure" alt="Databases & Cloud" />
 </p>
 
 <p align="center">
   <b>🛠️ Tools & Technologies</b><br>
-  <img src="https://skillicons.dev/icons?theme=dark&i=git,github,vscode,figma,postman" alt="Tools & Technologies" />
+  <img src="https://skillicons.dev/icons?theme=dark&i=html5,css3,git,github,vscode,postman,powershell" alt="Tools & Technologies" />
 </p>
 
 
