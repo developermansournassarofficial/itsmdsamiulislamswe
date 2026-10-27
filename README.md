@@ -32,7 +32,7 @@
 
 <p align="center">
   <b>⚙️ Backend Technologies</b><br>
-  <img src="https://skillicons.dev/icons?theme=dark&i=nodejs,express,next," alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?theme=dark&i=nodejs,express,next" alt="Backend Technologies" />
 </p>
 
 <p align="center">
