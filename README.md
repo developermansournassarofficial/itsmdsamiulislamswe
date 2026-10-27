@@ -27,7 +27,11 @@ class AboutMe:
         return "Developing robust full-stack applications and optimizing software workflows."
 ```
 
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=33FF99&center=true&vCenter=true&width=600&height=600&lines=Hi+there!+I'm+MD+Samiul+Islam+👋;Software+Engineer;Full+Stack+Developer" alt="Typing SVG" />
+  </a>
+</p>
 
 # 👨‍💻 About Me
 💻 Full-Stack Web Developer | Crafting scalable & modern web applications.<br>
