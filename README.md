@@ -19,9 +19,8 @@
 
 
 
-<p align="center">
+
 # 🛠️ Tech Stack & Skills
-</p>
 ---
 
 <p align="center">
