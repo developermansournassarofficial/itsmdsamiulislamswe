@@ -41,6 +41,13 @@
 </p>
 
 <p align="center">
+  <b>🤖 AI Workflow & Coding Assistants</b><br>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Antigravity-4F46E5?style=for-the-badge&logo=ai&logoColor=white" alt="Antigravity" />
+</p>
+
+<p align="center">
   <b>🛠️ Tools & Technologies</b><br>
   <img src="https://skillicons.dev/icons?theme=dark&i=html,css,git,github,vscode,postman,powershell" alt="Tools & Technologies" />
 </p>
