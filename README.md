@@ -13,7 +13,7 @@
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itsmdsamiulislamswe) -->
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/itsmdsamiulislamswe)
 <!-- [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@itsmdsamiulislamswe) -->
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/itsmdsamiulisla)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/itsmdsamiulisla)<br>
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:md.samiulislam.swe@gmail.com) 
 
 # 💻 Tech Stack:
