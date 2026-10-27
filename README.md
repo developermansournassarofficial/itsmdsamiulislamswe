@@ -20,7 +20,7 @@
 
 
 <p align="center">
-<b># 🛠️ Tech Stack & Skills</b><br>
+# 🛠️ Tech Stack & Skills
 </p>
 ---
 
