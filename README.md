@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍💻 About Me:
 💻 I am a passionate Full-Stack Web Developer and software engineering student dedicated to building modern, robust, and scalable web applications.<br>
 🌱 Currently expanding my expertise in advanced JavaScript (ES6+), modern frontend frameworks like React.js & Next.js, and backend architectures using Node.js & Express.js.<br>
 🛠️ Proficient in working with version control systems like Git & GitHub and automating workflows through command-line tools and scripts.<br>
