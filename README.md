@@ -16,6 +16,48 @@
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/itsmdsamiulisla)<br>
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:md.samiulislam.swe@gmail.com) 
 
+
+
+
+
+### 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <br>
+  <b>💻 Programming Languages</b><br>
+  <img src="https://skillicons.dev/icons?theme=dark&i=py,js,cpp,c,html,css" alt="Programming Languages" />
+</p>
+
+<p align="center">
+  <b>🚀 Frameworks & Libraries</b><br>
+  <img src="https://skillicons.dev/icons?theme=dark&i=django,react,bootstrap,mui" alt="Frameworks & Libraries" />
+</p>
+
+<p align="center">
+  <b>🗄️ Databases & Cloud</b><br>
+  <img src="https://skillicons.dev/icons?theme=dark&i=mysql,postgres,firebase,aws" alt="Databases & Cloud" />
+</p>
+
+<p align="center">
+  <b>🛠️ Tools & Technologies</b><br>
+  <img src="https://skillicons.dev/icons?theme=dark&i=git,github,vscode,figma,postman" alt="Tools & Technologies" />
+</p>
+
+---
+
+### 👁️ Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsmdsamiulislamswe&color=brightgreen&style=flat" alt="Profile Views" />
+</p>
+
+
+
+
+
+
+
+
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
@@ -39,26 +81,15 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsmdsamiulislamswe&show_icons=true&theme=dark&bg_color=22272e&text_color=adbac7&icon_color=539bf5" alt="MD Samiul Islam's GitHub Stats" />
-</p>
-
+</p><br>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=itsmdsamiulislamswe&theme=dark&background=22272e&ring=f0883e&fire=f0883e&currStreakNum=f0883e" alt="GitHub Streak Stats" />
-</p>
-
+</p><br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmdsamiulislamswe&layout=compact&theme=dark&bg_color=22272e&text_color=adbac7" alt="Most Used Languages" />
-</p>
-
+</p><br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itsmdsamiulislamswe&color=brightgreen&style=flat" alt="Profile Views" />
-</p>
-
-<!-- # 📈 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=@itsmdsamiulislamswe&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=@itsmdsamiulislamswe&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=@itsmdsamiulislamswe&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact -->
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=itsmdsamiulislamswe)
+</p><br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
