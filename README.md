@@ -35,7 +35,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
 # 📈 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=@itsmdsamiulislamswe&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![MD Samiul Islam](https://github-readme-stats.shion.dev/api?username=@itsmdsamiulislamswe&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=@itsmdsamiulislamswe&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=@itsmdsamiulislamswe&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
