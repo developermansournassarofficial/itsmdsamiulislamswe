@@ -21,11 +21,11 @@
 
 
 # 🛠️ Tech Stack & Skills
----
+
 
 <p align="center">
   <b>💻 Programming Languages</b><br>
-  <img src="https://skillicons.dev/icons?theme=dark&i=py,js,cpp,c,html,css" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?theme=dark&i=html,css,js,ts" alt="Programming Languages" />
 </p>
 
 <p align="center">
