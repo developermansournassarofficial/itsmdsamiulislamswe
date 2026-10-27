@@ -1,4 +1,4 @@
-# 👨‍💻 About Me:
+# 👨‍💻 About Me
 💻 I am a passionate Full-Stack Web Developer and software engineering student dedicated to building modern, robust, and scalable web applications.<br>
 🌱 Currently expanding my expertise in advanced JavaScript (ES6+), modern frontend frameworks like React.js & Next.js, and backend architectures using Node.js & Express.js.<br>
 🛠️ Proficient in working with version control systems like Git & GitHub and automating workflows through command-line tools and scripts.<br>
@@ -6,7 +6,7 @@
 📫 How to reach me: md.samiulislam.swe@gmail.com
 
 
-# 🔗 Socials:
+# 🔗 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/itsmdsamiulislamswe)
 <!-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/itsmdsamiulislamswe) -->
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsmdsamiulislamswe)
@@ -18,14 +18,12 @@
 
 
 
-
-
 # 🛠️ Tech Stack & Skills
 
 
 <p align="center">
   <b>💻 Programming Languages</b><br>
-  <img src="https://skillicons.dev/icons?theme=dark&i=js,ts" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?theme=dark&i=js,ts,py" alt="Programming Languages" />
 </p>
 
 <p align="center">
@@ -40,45 +38,23 @@
 
 <p align="center">
   <b>🛠️ Tools & Technologies</b><br>
-  <img src="https://skillicons.dev/icons?theme=dark&i=html5,css3,git,github,vscode,postman,powershell" alt="Tools & Technologies" />
+  <img src="https://skillicons.dev/icons?theme=dark&i=html,css,git,github,vscode,postman,powershell" alt="Tools & Technologies" />
 </p>
 
-
-
-
-
-
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
-
-# 📈 GitHub Stats:
+# 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsmdsamiulislamswe&show_icons=true&theme=dark&bg_color=22272e&text_color=adbac7&icon_color=539bf5" alt="MD Samiul Islam's GitHub Stats" />
 </p><br>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=itsmdsamiulislamswe&theme=dark&background=22272e&ring=f0883e&fire=f0883e&currStreakNum=f0883e" alt="GitHub Streak Stats" />
 </p><br>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmdsamiulislamswe&layout=compact&theme=dark&bg_color=22272e&text_color=adbac7" alt="Most Used Languages" />
 </p><br>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itsmdsamiulislamswe&color=brightgreen&style=flat" alt="Profile Views" />
 </p><br>
