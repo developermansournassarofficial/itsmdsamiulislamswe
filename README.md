@@ -28,7 +28,7 @@
 
 <p align="center">
   <b>🚀 Frameworks & Libraries</b><br>
-  <img src="https://skillicons.dev/icons?theme=dark&i=react,redux,tailwindcss,bootstrap," alt="Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?theme=dark&i=react,redux,tailwindcss,bootstrap" alt="Frameworks & Libraries" />
 </p>
 
 <p align="center">
