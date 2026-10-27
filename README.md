@@ -32,7 +32,7 @@
 
 <p align="center">
   <b>⚙️ Backend Technologies</b><br>
-  <img src="https://skillicons.dev/icons?theme=dark&i=nodejs,express,nest,mongodb" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?theme=dark&i=nodejs,express,next,mongodb,mongoose" alt="Backend Technologies" />
 </p>
 
 <p align="center">
