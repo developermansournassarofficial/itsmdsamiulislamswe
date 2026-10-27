@@ -20,7 +20,6 @@
 
 # 🛠️ Tech Stack & Skills
 
-
 <p align="center">
   <b>💻 Programming Languages</b><br>
   <img src="https://skillicons.dev/icons?theme=dark&i=js,ts,py" alt="Programming Languages" />
@@ -29,6 +28,11 @@
 <p align="center">
   <b>🚀 Frameworks & Libraries</b><br>
   <img src="https://skillicons.dev/icons?theme=dark&i=react,redux,tailwindcss,bootstrap" alt="Frameworks & Libraries" />
+</p>
+
+<p align="center">
+  <b>⚙️ Backend Technologies</b><br>
+  <img src="https://skillicons.dev/icons?theme=dark&i=nodejs,express,nest,mongodb" alt="Backend Technologies" />
 </p>
 
 <p align="center">
