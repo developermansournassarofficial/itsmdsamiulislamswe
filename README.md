@@ -41,11 +41,6 @@
 </p>
 
 <p align="center">
-  <b>🤖 AI Workflow & Coding Assistants</b><br>
-  <img src="https://skillicons.dev/icons?theme=dark&i=chatgpt,claude,antigravity" alt="AI Workflow & Coding Assistants" />
-</p>
-
-<p align="center">
   <b>🛠️ Tools & Technologies</b><br>
   <img src="https://skillicons.dev/icons?theme=dark&i=html,css,git,github,vscode,postman,powershell" alt="Tools & Technologies" />
 </p>
