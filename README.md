@@ -35,30 +35,30 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
 
-<div align="center">
+# 📈 GitHub Stats:
 
-### 📈 GitHub Stats:
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmdsamiulislamswe&show_icons=true&theme=radical" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmdsamiulislamswe&show_icons=true&theme=dark&bg_color=22272e&text_color=adbac7&icon_color=539bf5" alt="MD Samiul Islam's GitHub Stats" />
 </p>
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=itsmdsamiulislamswe&theme=radical" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=itsmdsamiulislamswe&theme=dark&background=22272e&ring=f0883e&fire=f0883e&currStreakNum=f0883e" alt="GitHub Streak Stats" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmdsamiulislamswe&layout=compact&theme=radical" alt="Most Used Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmdsamiulislamswe&layout=compact&theme=dark&bg_color=22272e&text_color=adbac7" alt="Most Used Languages" />
 </p>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsmdsamiulislamswe&color=brightgreen&style=flat" alt="Profile Views" />
+</p>
 
 <!-- # 📈 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=@itsmdsamiulislamswe&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=@itsmdsamiulislamswe&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=@itsmdsamiulislamswe&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=@itsmdsamiulislamswe&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=itsmdsamiulislamswe)
+![Profile Views](https://komarev.com/ghpvc/?username=itsmdsamiulislamswe) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
