@@ -19,11 +19,12 @@
 
 
 
-
-### 🛠️ Tech Stack & Skills
+<p align="center">
+<b># 🛠️ Tech Stack & Skills</b><br>
+</p>
+---
 
 <p align="center">
-  <br>
   <b>💻 Programming Languages</b><br>
   <img src="https://skillicons.dev/icons?theme=dark&i=py,js,cpp,c,html,css" alt="Programming Languages" />
 </p>
@@ -42,15 +43,6 @@
   <b>🛠️ Tools & Technologies</b><br>
   <img src="https://skillicons.dev/icons?theme=dark&i=git,github,vscode,figma,postman" alt="Tools & Technologies" />
 </p>
-
----
-
-### 👁️ Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsmdsamiulislamswe&color=brightgreen&style=flat" alt="Profile Views" />
-</p>
-
 
 
 
