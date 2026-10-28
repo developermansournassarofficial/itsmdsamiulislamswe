@@ -1,4 +1,4 @@
-```python
+<!-- ```python
 class AboutMe:
     def __init__(self):
         self.name = "MD Samiul Islam"
@@ -24,7 +24,7 @@ class AboutMe:
 
     def current_focus(self):
         return "Developing robust full-stack applications and optimizing software workflows."
-```
+``` -->
 
 
 # 👨‍💻 About Me
