@@ -105,8 +105,10 @@ class AboutMe:
 </p><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmdsamiulislamswe&layout=compact&theme=dark&bg_color=22272e&text_color=adbac7" alt="Most Used Languages" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/](https://streak-stats.demolab.com)?username=itsmdsamiulislamswe&layout=compact&theme=dark&bg_color=22272e&text_color=adbac7" alt="Most Used Languages" />
 </p><br>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itsmdsamiulislamswe&color=brightgreen&style=flat" alt="Profile Views" />
