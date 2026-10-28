@@ -71,25 +71,25 @@ class AboutMe:
     <img src="https://img.icons8.com/?size=100&id=13912&format=png&color=000000" height="60" width="60" alt="Facebook">
   </a>
   <a href="https://www.instagram.com/itsmdsamiulislamswe/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram">
+    <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" height="60" width="60" alt="Instagram">
   </a>
   <a href="https://discord.gg/itsmdsamiulislamswe/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png&color=000000" alt="Discord">
+    <img src="https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png&color=000000" height="60" width="60" alt="Discord">
   </a>
   <a href="https://youtube.com/@itsmdsamiulislamswe" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" alt="YouTube">
+    <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" height="60" width="60" alt="YouTube">
   </a>
   <a href="https://pinterest.com/itsmdsamiulislamswe/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=63676&format=png&color=000000" alt="Pinterest">
+    <img src="https://img.icons8.com/?size=100&id=63676&format=png&color=000000" height="60" width="60" alt="Pinterest">
   </a>
   <a href="https://tiktok.com/@itsmdsamiulislamdev" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=118640&format=png&color=000000" alt="TikTok">
+    <img src="https://img.icons8.com/?size=100&id=118640&format=png&color=000000" height="60" width="60" alt="TikTok">
   </a>
   <a href="https://x.com/itsmdsamiulisla/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=kbuAJVwYUPvh&format=png&color=000000" alt="Twitter">
+    <img src="https://img.icons8.com/?size=100&id=kbuAJVwYUPvh&format=png&color=000000" height="60" width="60" alt="Twitter">
   </a>
   <a href="mailto:md.samiulislam.swe@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Email">
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" height="60" width="60" alt="Email">
   </a>
 </p>
 
