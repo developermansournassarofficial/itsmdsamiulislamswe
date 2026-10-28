@@ -73,16 +73,16 @@ class AboutMe:
   <a href="https://www.instagram.com/itsmdsamiulislamswe/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram">
   </a>
-  <a href="https://discord.com/itsmdsamiulislamswe/" target="_blank">
+  <a href="https://discord.gg/itsmdsamiulislamswe/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png&color=000000" alt="Discord">
   </a>
-  <a href="https://www.youtube.com/channel/itsmdsamiulislamswe" target="_blank">
+  <a href="https://youtube.com/@itsmdsamiulislamswe" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" alt="YouTube">
   </a>
   <a href="https://pinterest.com/itsmdsamiulislamswe/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=63676&format=png&color=000000" alt="Pinterest">
   </a>
-  <a href="https://tiktok.com/itsmdsamiulislamswe/" target="_blank">
+  <a href="https://tiktok.com/@itsmdsamiulislamdev" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=118640&format=png&color=000000" alt="TikTok">
   </a>
   <a href="https://x.com/itsmdsamiulisla/" target="_blank">
