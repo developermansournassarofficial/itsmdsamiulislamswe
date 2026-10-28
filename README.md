@@ -74,42 +74,8 @@ class AboutMe:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:md.samiulislam.swe@gmail.com) -->
 
 
-<h3 align="center">☕ Connect with me</h3>
+<h1 align="center">☕ Connect with me</h1>
 
-<p align="center">
-  <!-- Discord -->
-  <a href="https://discord.com/users/itsmdsamiulislamswe" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <!-- Facebook -->
-  <a href="https://facebook.com/your-facebook-username" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <!-- Instagram -->
-  <a href="https://instagram.com/itsmdsamiulislamswe" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
-  </a>
-  <!-- Pinterest -->
-  <a href="https://pinterest.com/itsmdsamiulislamswe" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-%23BD081C.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest" />
-  </a>
-  <!-- TikTok -->
-  <a href="https://tiktok.com/@itsmdsamiulislamswe" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" />
-  </a>
-  <!-- X (Twitter) -->
-  <a href="https://twitter.com/itsmdsamiulislamswe" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
-  </a>
-  <!-- Email -->
-  <a href="mailto:itsmdsamiulislamswe@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
 
 
 <!--<h3 align="center">☕ Connect with me!</h3>
