@@ -65,10 +65,10 @@ class AboutMe:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mdsamiulislamdev/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="Linkedin"/>
+    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" height="60" width="60" alt="Linkedin"/>
   </a>
   <a href="https://www.facebook.com/itsmdsamiulislam/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=13912&format=png&color=000000" alt="Facebook">
+    <img src="https://img.icons8.com/?size=100&id=13912&format=png&color=000000" height="60" width="60" alt="Facebook">
   </a>
   <a href="https://www.instagram.com/itsmdsamiulislamswe/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram">
