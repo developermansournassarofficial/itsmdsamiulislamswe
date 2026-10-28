@@ -97,7 +97,7 @@ class AboutMe:
 
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=itsmdsamiulislamswe&theme=dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=itsmdsamiulislamswe&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
 </p>
 
 <p align="center">
