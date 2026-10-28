@@ -26,7 +26,7 @@ class AboutMe:
         return "Developing robust full-stack applications and optimizing software workflows."
 ``` -->
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h1 align="center">👨‍💻 About Me</h1>
 
 💻 Full-Stack Web Developer | Crafting scalable & modern web applications.<br>
 🌱 Learning: React.js, Next.js, Node.js & Express.js<br>
@@ -34,7 +34,7 @@ class AboutMe:
 ⚡ Fun fact: Love building automated tools & solving complex dev challenges!<br>
 📫 How to reach me: md.samiulislam.swe@gmail.com
 
-<h2 align="center">🛠️ Tech Stack & Skills</h2>
+<h1 align="center">🛠️ Tech Stack & Skills</h1>
 
 <p align="center">
   <b>💻 Programming Languages</b><br>
@@ -91,7 +91,7 @@ class AboutMe:
 </p> -->
 
 
-<h2 align="center">☕ Connect with me</h2>
+<h1 align="center">☕ Connect with me</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/itsmdsamiulislamswe/" target="_blank">
@@ -127,7 +127,7 @@ class AboutMe:
 
 
 
-<h2 align="center">📈 GitHub Stats</h2>
+<h1 align="center">📈 GitHub Stats</h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsmdsamiulislamswe&show_icons=true&theme=dark&bg_color=22272e&text_color=adbac7&icon_color=539bf5" alt="MD Samiul Islam's GitHub Stats" />
