@@ -96,7 +96,7 @@ class AboutMe:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mdsamiulislamdev/" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="Linkedin"/>
+  <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" height="60" width="60" alt="Linkedin"/>
 </p>
 
 
