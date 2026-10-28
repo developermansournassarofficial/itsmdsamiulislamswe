@@ -93,7 +93,7 @@ class AboutMe:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/itsmdsamiulislamswe/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="background-color: #0077B5; padding: 8px; border-radius: 10px;" />
+    <img src="https://cdn.jsdelivr.net/npm/normal-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="background-color: #0077B5; padding: 8px; border-radius: 10px;" />
   </a>
   <a href="https://www.facebook.com/itsmdsamiulislamswe" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/facebook.svg" alt="Facebook" width="40" height="40" style="background-color: #1877F2; padding: 8px; border-radius: 10px;" />
@@ -101,7 +101,7 @@ class AboutMe:
   <a href="https://www.instagram.com/itsmdsamiulislamswe/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" alt="Instagram" width="40" height="40" style="background-color: #E4405F; padding: 8px; border-radius: 10px;" />
   </a>
-  <a href="https://twitter.com/itsmdsamiulislamswe" target="_blank">
+  <a href="https://x.com/itsmdsamiulislamswe" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" alt="X" width="40" height="40" style="background-color: #000000; padding: 8px; border-radius: 10px;" />
   </a>
   <a href="https://www.youtube.com/channel/itsmdsamiulislamswe" target="_blank">
