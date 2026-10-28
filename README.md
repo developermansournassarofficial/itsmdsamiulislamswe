@@ -96,7 +96,7 @@ class AboutMe:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mdsamiulislamdev/" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="Linkedin">
+  <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" height="50" width="50" alt="Linkedin"/>
 </p>
 
 
@@ -112,7 +112,7 @@ class AboutMe:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/itsmdsamiulislamswe/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="background-color: #0077B5; padding: 8px; border-radius: 10px;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://www.facebook.com/itsmdsamiulislamswe" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/facebook.svg" alt="Facebook" width="40" height="40" style="background-color: #1877F2; padding: 8px; border-radius: 10px;" />
