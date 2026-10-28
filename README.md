@@ -86,7 +86,7 @@ class AboutMe:
     <img src="https://img.icons8.com/?size=100&id=118640&format=png&color=000000" alt="TikTok">
   </a>
   <a href="https://x.com/itsmdsamiulisla/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=ByIxE00CgtDN&format=png&color=000000" alt="Twitter">
+    <img src="https://img.icons8.com/?size=100&id=kbuAJVwYUPvh&format=png&color=000000" alt="Twitter">
   </a>
   <a href="mailto:md.samiulislam.swe@gmail.com" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Email">
