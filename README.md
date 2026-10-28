@@ -95,8 +95,9 @@ class AboutMe:
 <h1 align="center">☕ Connect with me</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mdsamiulislamdev/" target="_blank">
+  <a href="https://www.linkedin.com/in/mdsamiulislamdev/" target="_m">
   <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" height="60" width="60" alt="Linkedin"/>
+  </a>
 </p>
 
 
