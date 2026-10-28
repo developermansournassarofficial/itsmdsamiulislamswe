@@ -95,11 +95,21 @@ class AboutMe:
 
 <h1 align="center">📈 GitHub Stats</h1>
 
-![](https://github-readme-stats.shion.dev/api?username=itsmdsamiulislamswe&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=itsmdsamiulislamswe&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=itsmdsamiulislamswe&theme=dark&hide_border=false&fire=ff6600&ring=ff6600" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=itsmdsamiulislamswe&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+
+
+<!-- ![](https://github-readme-stats.shion.dev/api?username=itsmdsamiulislamswe&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
 ![](https://streak-stats.demolab.com/?user=itsmdsamiulislamswe&theme=dark&hide_border=false)<br/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=itsmdsamiulislamswe&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=itsmdsamiulislamswe&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
 
 
 <!-- <p align="center">
