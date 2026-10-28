@@ -120,8 +120,6 @@ class AboutMe:
   </a>
   <a href="mailto:md.samiulislam.swe@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
-      <a href="https ://www.facebook.com/shovoalways" rel="nofollow"> <img src="https://github. com/shovoalways/shovoalways/raw/main/img/facebook.png?raw=true" alt="facebook" height="40" style="max-width: 100%; height: auto; max-height: 40px;"> </a> == $0
-  </a>
 </p>
 
 
