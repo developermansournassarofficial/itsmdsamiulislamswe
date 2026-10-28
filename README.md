@@ -112,8 +112,6 @@ class AboutMe:
 </p>
 
 
-
-
 <h3 align="center">☕ Connect with me!</h3>
 
 <p align="center">
@@ -142,7 +140,6 @@ class AboutMe:
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
 
 
 # 📈 GitHub Stats
