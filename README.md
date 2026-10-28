@@ -97,15 +97,18 @@ class AboutMe:
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmdsamiulislamswe&show_icons=true&theme=dark&bg_color=22272e&text_color=adbac7&icon_color=539bf5" alt="MD Samiul Islam's GitHub Stats" />
+  ![](https://github-readme-stats.shion.dev/api?username=itsmdsamiulislamswe&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false)<br/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=itsmdsamiulislamswe&show_icons=true&theme=dark&bg_color=22272e&text_color=adbac7&icon_color=539bf5" alt="MD Samiul Islam's GitHub Stats" /> -->
 </p><br>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=itsmdsamiulislamswe&theme=dark&background=22272e&ring=f0883e&fire=f0883e&currStreakNum=f0883e" alt="GitHub Streak Stats" />
+  ![](https://streak-stats.demolab.com/?user=itsmdsamiulislamswe&theme=catppuccin_mocha&hide_border=false)<br/>
+<!-- <img src="https://streak-stats.demolab.com?user=itsmdsamiulislamswe&theme=dark&background=22272e&ring=f0883e&fire=f0883e&currStreakNum=f0883e" alt="GitHub Streak Stats" /> -->
 </p><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=itsmdsamiulislamswe&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=itsmdsamiulislamswe&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  <!-- <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=itsmdsamiulislamswe&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" /> -->
 </p>
 
 
