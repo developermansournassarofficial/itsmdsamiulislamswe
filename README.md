@@ -105,8 +105,8 @@ class AboutMe:
 </p><br>
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/](https://streak-stats.demolab.com)?username=itsmdsamiulislamswe&layout=compact&theme=dark&bg_color=22272e&text_color=adbac7" alt="Most Used Languages" />
-</p><br>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=itsmdsamiulislamswe&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</p>
 
 
 
