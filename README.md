@@ -91,6 +91,42 @@ class AboutMe:
 </p> -->
 
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/itsmdsamiulislamswe/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="background-color: #0077B5; padding: 8px; border-radius: 10px;" />
+  </a>
+  <a href="https://www.facebook.com/itsmdsamiulislamswe" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/facebook.svg" alt="Facebook" width="40" height="40" style="background-color: #1877F2; padding: 8px; border-radius: 10px;" />
+  </a>
+  <a href="https://www.instagram.com/itsmdsamiulislamswe/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" alt="Instagram" width="40" height="40" style="background-color: #E4405F; padding: 8px; border-radius: 10px;" />
+  </a>
+  <a href="https://twitter.com/itsmdsamiulislamswe" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" alt="X" width="40" height="40" style="background-color: #000000; padding: 8px; border-radius: 10px;" />
+  </a>
+  <a href="https://www.youtube.com/channel/itsmdsamiulislamswe" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" alt="YouTube" width="40" height="40" style="background-color: #FF0000; padding: 8px; border-radius: 10px;" />
+  </a>
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/discord.svg" alt="Discord" width="40" height="40" style="background-color: #5865F2; padding: 8px; border-radius: 10px;" />
+  </a>
+  <a href="https://pinterest.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/pinterest.svg" alt="Pinterest" width="40" height="40" style="background-color: #BD081C; padding: 8px; border-radius: 10px;" />
+  </a>
+  <a href="https://tiktok.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tiktok.svg" alt="TikTok" width="40" height="40" style="background-color: #000000; padding: 8px; border-radius: 10px;" />
+  </a>
+  <a href="mailto:md.samiulislam.swe@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" alt="Email" width="40" height="40" style="background-color: #D14836; padding: 8px; border-radius: 10px;" />
+  </a>
+</p>
+
+
+
+
+
+
+
 <h1 align="center">☕ Connect with me</h1>
 
 <p align="center">
