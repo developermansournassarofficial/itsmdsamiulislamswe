@@ -118,11 +118,14 @@ class AboutMe:
   <a href="https://facebook.com/your-facebook-username" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/itsmdsamiulislamswe" target="_blank">
+  <a href="https://instagram.com/your-instagram-username" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://twitter.com/your-twitter-username" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
+  </a>
+  <a href="https://youtube.com/@PodcastPulseBD" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://tiktok.com/@your-tiktok-username" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" />
@@ -130,10 +133,10 @@ class AboutMe:
   <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://discord.com/users/itsmdsamiulislamswe" target="_blank">
+  <a href="https://discord.com/users/your-discord-id" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://pinterest.com/itsmdsamiulislamswe" target="_blank">
+  <a href="https://pinterest.com/your-pinterest-username" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-%23BD081C.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest" />
   </a>
   <a href="mailto:itsmdsamiulislamswe@gmail.com">
