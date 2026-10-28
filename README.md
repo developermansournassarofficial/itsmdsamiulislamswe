@@ -91,9 +91,28 @@ class AboutMe:
 </p> -->
 
 
+
+<h1 align="center">☕ Connect with me</h1>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/itsmdsamiulislamswe/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/normal-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="background-color: #0077B5; padding: 8px; border-radius: 10px;" />
+  <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="Linkedin">
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/itsmdsamiulislamswe/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="background-color: #0077B5; padding: 8px; border-radius: 10px;" />
   </a>
   <a href="https://www.facebook.com/itsmdsamiulislamswe" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/facebook.svg" alt="Facebook" width="40" height="40" style="background-color: #1877F2; padding: 8px; border-radius: 10px;" />
@@ -127,7 +146,7 @@ class AboutMe:
 
 
 
-<h1 align="center">☕ Connect with me</h1>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/itsmdsamiulislamswe/" target="_blank">
