@@ -104,6 +104,10 @@ class AboutMe:
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=itsmdsamiulislamswe&repo=itsmdsamiulislamswe&theme=catppuccin_mocha" alt="Activity Chart" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=itsmdsamiulislamswe&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
@@ -113,5 +117,7 @@ class AboutMe:
   <img src="https://img.shields.io/github/followers/itsmdsamiulislamswe?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/itsmdsamiulislamswe?style=social&label=Stars" alt="GitHub Stars" />
 </p>
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
