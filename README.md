@@ -97,10 +97,14 @@ class AboutMe:
 
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=itsmdsamiulislamswe&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=itsmdsamiulislamswe&theme=dark&hide_border=false&fire=ff6600&ring=ff6600" alt="GitHub Streak" />
-  <br/>
+  <img src="https://github-readme-stats.shion.dev/api?username=itsmdsamiulislamswe&theme=dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=itsmdsamiulislamswe&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=itsmdsamiulislamswe&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
