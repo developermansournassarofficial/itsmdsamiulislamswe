@@ -1,3 +1,14 @@
+<img width="1566" height="1526" alt="image" src="https://github.com/user-attachments/assets/4602904a-1745-4610-98ab-9ff1a629109a" />
+
+
+
+
+
+
+
+
+
+
 
 ```python
 class AboutMe:
