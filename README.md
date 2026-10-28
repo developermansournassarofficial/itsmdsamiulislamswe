@@ -95,22 +95,17 @@ class AboutMe:
 
 <h1 align="center">📈 GitHub Stats</h1>
 
-
 <p align="center">
-  ![](https://github-readme-stats.shion.dev/api?username=itsmdsamiulislamswe&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false)<br/>
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=itsmdsamiulislamswe&show_icons=true&theme=dark&bg_color=22272e&text_color=adbac7&icon_color=539bf5" alt="MD Samiul Islam's GitHub Stats" /> -->
-</p><br>
-
-<p align="center">
-  ![](https://streak-stats.demolab.com/?user=itsmdsamiulislamswe&theme=catppuccin_mocha&hide_border=false)<br/>
-<!-- <img src="https://streak-stats.demolab.com?user=itsmdsamiulislamswe&theme=dark&background=22272e&ring=f0883e&fire=f0883e&currStreakNum=f0883e" alt="GitHub Streak Stats" /> -->
-</p><br>
-
-<p align="center">
-  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=itsmdsamiulislamswe&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-  <!-- <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=itsmdsamiulislamswe&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" /> -->
+  <img src="https://github-readme-stats.shion.dev/api?username=itsmdsamiulislamswe&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=itsmdsamiulislamswe&theme=catppuccin_mocha&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=itsmdsamiulislamswe&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</p>
 
 
 <p align="center">
