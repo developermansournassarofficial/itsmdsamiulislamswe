@@ -103,7 +103,9 @@ class AboutMe:
   <img src="https://streak-stats.demolab.com/?user=itsmdsamiulislamswe&theme=catppuccin_mocha&hide_border=false" alt="GitHub Streak" />
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=itsmdsamiulislamswe&repo=itsmdsamiulislamswe&theme=catppuccin_mocha" alt="Activity Chart" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=itsmdsamiulislamswe&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
